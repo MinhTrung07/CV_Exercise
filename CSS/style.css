@@ -1,0 +1,46 @@
+#Avatar {
+  width: 200px;
+  text-align: center;
+}
+h1,
+h2 {
+  padding-top: 50px;
+}
+.icon_Contact {
+  width: 20px;
+}
+div hr {
+  width: 100%;
+  margin-left: 0px;
+}
+#info {
+  background-color: #31343b;
+  color: white;
+  width: 300px;
+  height: 1100px;
+  text-align: center;
+  margin-bottom: 30px;
+}
+main {
+  margin-left: 300px;
+  margin-right: 300px;
+  margin-top: 0;
+  margin-bottom: 0;
+  border: 1px solid black;
+  width: 800px;
+  height: 1122px;
+}
+#detail {
+  width: 450px;
+  height: 1122px;
+  color: black;
+  background-color: white;
+}
+
+.content {
+  width: 100%;
+}
+
+#profile {
+  width: 90%;
+}
