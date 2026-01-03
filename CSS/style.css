@@ -20,6 +20,10 @@ div hr {
   height: 1100px;
   text-align: center;
   margin-bottom: 30px;
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 1px;
 }
 main {
   margin-left: 300px;
@@ -29,12 +33,17 @@ main {
   border: 1px solid black;
   width: 800px;
   height: 1122px;
+  position: relative;
 }
 #detail {
   width: 450px;
   height: 1122px;
   color: black;
   background-color: white;
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 310px;
 }
 
 .content {
